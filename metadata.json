@@ -1,0 +1,7 @@
+{
+  "name": "Simple Written To-Do List Task",
+  "description": "A comprehensive, AI-powered task management system built with Gemini, supporting natural language processing, multi-language (English/Urdu) commands, and voice input.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
