@@ -1,20 +1,41 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="Project Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# AI-Powered Todo Application
 
-This contains everything you need to run your app locally.
+This repository contains a full-stack Todo application built using a **spec-driven, AI-assisted development approach** as part of **Hackathon II – The Evolution of Todo**.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1xy-zMKT7wTw5e2TVO261tA2vHGVJggWq
+The project evolves from a simple task manager into a scalable, modern web application with an AI-powered conversational interface.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🚀 Features
 
+- Create, update, delete, and manage tasks
+- Mark tasks as complete or incomplete
+- Full-stack architecture
+- AI-powered conversational interaction
+- Clean, modular, and scalable codebase
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** Next.js  
+- **Backend:** Node.js / API-based backend  
+- **AI Integration:** Gemini API  
+- **Development Approach:** Spec-Driven Development  
+
+---
+
+## ▶️ Run Locally
+
+### Prerequisites
+- Node.js (v18 or higher)
+
+### Setup
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```bash
+   npm install
